@@ -1,0 +1,9 @@
+Name	of	the	task			Due date (mm dd yyyy)		Priority
+Learn	basic	Python			12 12 2021					3
+Implement	a	snake	game	04 01 2021					1
+Clean	up	my	room			01 10 2021					2
+Build	my	resume				12 12 2021					3
+Study	for	the	exam			03 05 2021					1
+Learn	how	to	juggle			05 06 2022					3
+Create	a	website	using	React12 07 2021					2
+Have	a	tea	and	self-reflect03 01 2021					2
